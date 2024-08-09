@@ -1,0 +1,83 @@
+# Copyright (C) 2024 Alexej Bogačev
+# This file is distributed under the same license as the WooCommerce RW Only Company Checkout plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce RW Only Company Checkout 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-rw-only-"
+"company-checkout\n"
+"POT-Creation-Date: 2024-08-08T17:23:23+03:00\n"
+"PO-Revision-Date: 2024-08-08 18:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Domain: wc-rw-only-company-checkout\n"
+
+#. Plugin Name of the plugin
+#: wc-rw-only-company-checkout.php
+msgid "WooCommerce RW Only Company Checkout"
+msgstr "WooCommerce RW Only Company Checkout"
+
+#. Description of the plugin
+#: wc-rw-only-company-checkout.php
+msgid ""
+"Checks products in the cart, and if at least one product can only be sold to "
+"a company, changes the checkout form to a company checkout."
+msgstr ""
+"Checks products in the cart, and if at least one product can only be sold to "
+"a company, changes the checkout form to a company checkout."
+
+#. Author of the plugin
+#: wc-rw-only-company-checkout.php
+msgid "Alexej Bogačev"
+msgstr "Alexej Bogačev"
+
+#: includes/class-wc-rw-only-company-checkout-init.php:86
+msgid ""
+"This product is available only to business entities and individual "
+"entrepreneurs."
+msgstr ""
+"Ten produkt jest dostępny tylko dla przedsiębiorców i osób prowadzących "
+"działalność gospodarczą."
+
+#: includes/class-wc-rw-only-company-checkout-init.php:103
+msgid ""
+"The next products in you order are available only for business and "
+"individual entrepreneurs:"
+msgstr ""
+"Następujące produkty w Twoim zamówieniu są dostępne tylko dla "
+"przedsiębiorstw i osób prowadzących działalność gospodarczą:"
+
+#: includes/class-wc-rw-only-company-checkout-init.php:113
+msgid "Back to cart"
+msgstr "Wróć do koszyka"
+
+#: includes/class-wc-rw-only-company-checkout-init.php:114
+msgid ""
+"For placing an order, please fill in the Company or Entrepreneur name and "
+"tax number for invoicing. If you would like to send goods to a different "
+"address, please fill in the shipping data as well."
+msgstr ""
+"Aby złożyć zamówienie, proszę wprowadzić nazwę firmy lub imię przedsiębiorcy "
+"oraz numer identyfikacji podatkowej (NIP) do wystawienia faktury. Jeśli "
+"chcesz wysłać towary na inny adres, proszę również wypełnić dane dotyczące "
+"wysyłki."
+
+#: includes/class-wc-rw-only-company-checkout-init.php:131
+msgid "Company/Entrepreneur name"
+msgstr "Nazwa firmy/Przedsiębiorcy"
+
+#: includes/class-wc-rw-only-company-checkout-init.php:135
+msgid "Tax number"
+msgstr "NIP"
+
+#: includes/class-wc-rw-only-company-checkout-init.php:139
+msgid "Enter your company or entrepreneur name"
+msgstr "Wprowadź nazwę swojej firmy lub przedsiębiorcy"
+
+#: includes/class-wc-rw-only-company-checkout-init.php:140
+msgid "Enter your tax number"
+msgstr "Wprowadź numer NIP"
