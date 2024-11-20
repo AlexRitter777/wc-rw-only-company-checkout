@@ -74,7 +74,7 @@ class  Wc_Rw_Only_Company_Checkout_Init
      */
     public function save_custom_product_field($post_id) {
 
-        $only_company = $_POST['_only_company'];
+        $only_company = $_POST['_only_company'] ?? '';
         update_post_meta( $post_id, '_only_company', $only_company );
 
     }
